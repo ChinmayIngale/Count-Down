@@ -13,7 +13,7 @@ body{
     width: 100%;
     background-image: url("img/bgimg.jpeg");
     background-size: cover;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 .middle{
     /*position: absolute;
